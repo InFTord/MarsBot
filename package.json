@@ -1,0 +1,22 @@
+{
+  "name": "marsbot",
+  "version": "1.0.0",
+  "description": "МарсБот, дискорд бот на discord.js",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InFTord/MarsBot.git"
+  },
+  "keywords": [
+    "discord.js"
+  ],
+  "author": "InFTord",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InFTord/MarsBot/issues"
+  },
+  "homepage": "https://github.com/InFTord/MarsBot#readme"
+}
