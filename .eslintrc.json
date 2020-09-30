@@ -57,6 +57,8 @@
 
 		"no-var": "error",
 
+		"no-unused-vars": "warn",
+
 		"object-curly-spacing": ["error", "always"],
 
 		"prefer-const": "error",
