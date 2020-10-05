@@ -1,7 +1,9 @@
 module.exports = {
-	name: 'пинг',
+	name: 'ping',
 	description: 'Пинг',
-	execute(message, args) {
+	usage: 'Нету',
+	aliases: ['пинг'],
+	execute(message) {
 		message.channel.send('Понг');
 	},
 };
